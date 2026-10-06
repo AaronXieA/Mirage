@@ -21,4 +21,5 @@ gradle-app.setting
 .classpath
 
 .vscode
-mirage_video.DS_Store
+mirage_video
+.DS_Store
